@@ -1,3 +1,3 @@
 # Australia
 
-- [New South Wales](./new_south_wales/README.md)
+- [New South Wales](./New_south_wales/README.md)
