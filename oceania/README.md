@@ -1,3 +1,3 @@
 # OCEANIA
 
-- [AUSTRALIA](./australia/README.md)
+- [AUSTRALIA](./Australia/README.md)
