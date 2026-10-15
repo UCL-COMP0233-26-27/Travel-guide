@@ -1,3 +1,3 @@
 # OCEANIA
 
-* [Tuvalu](./tuvalu.md)
+*[Tuvalu](./tuvalu.md)
