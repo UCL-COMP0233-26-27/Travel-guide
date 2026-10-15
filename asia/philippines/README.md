@@ -1,0 +1,3 @@
+# Philippines
+
+*[Palawan](./palawan.md)
