@@ -1,3 +1,3 @@
 # Philippines
 
-*[Palawan](./palawan.md)
+* [Palawan](./palawan.md)
